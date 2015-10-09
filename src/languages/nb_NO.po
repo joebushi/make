@@ -1,0 +1,2188 @@
+# Copyright (C) 2015 The Theme Foundry
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Make 1.6.4\n"
+"Report-Msgid-Bugs-To: https://thethemefoundry.com/support/\n"
+"POT-Creation-Date: 2015-09-01 00:34:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-10-09 13:19+0100\n"
+"Last-Translator: Joe Bushi <joe@eikemobushi.no>\n"
+"Language-Team: The Theme Foundry\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"Language: nb_NO\n"
+"X-Poedit-KeywordsList: _n:1,2\n"
+
+#: inc/customizer/choices.php:188
+msgid "0"
+msgstr "0"
+
+#: inc/customizer/choices.php:189
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/choices.php:190
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/choices.php:191
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/choices.php:192
+msgid "4"
+msgstr "4"
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Obs! Som siden kan & rsquo; t bli funnet."
+
+#: 404.php:19
+msgid "Maybe try searching this website:"
+msgstr "Prøv et nytt søk:"
+
+#. Translators: this string appears as the title of the Comments section of a
+#. post.
+#: comments.php:17
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "En kommentar"
+msgstr[1] "En kommentar"
+
+#: comments.php:25 comments.php:41
+msgid "Comment navigation"
+msgstr "Kommentar navigasjon"
+
+#: comments.php:50
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: functions.php:179
+msgid "Primary Navigation"
+msgstr "Hovednavigasjon"
+
+#: functions.php:180
+msgid "Social Profile Links"
+msgstr "Sosial profil lenker"
+
+#: functions.php:181
+msgid "Header Bar Navigation"
+msgstr "Header bar navigasjon"
+
+#: functions.php:214
+msgid "Left Sidebar"
+msgstr "Venstre Sidebar"
+
+#: functions.php:223
+msgid "Right Sidebar"
+msgstr "Høyre Sidebar"
+
+#: functions.php:232
+msgid "Footer 1"
+msgstr "Fotnote 1"
+
+#: functions.php:241
+msgid "Footer 2"
+msgstr "Fotnote 2"
+
+#: functions.php:250
+msgid "Footer 3"
+msgstr "Fotnote 3"
+
+#: functions.php:259
+msgid "Footer 4"
+msgstr "Fotnote 4"
+
+#: inc/activation.php:34
+msgid ""
+"Make requires at least WordPress version %1$s. You are running version %2$s. "
+"Please upgrade and try again."
+msgstr ""
+"Gjør krever minst WordPress %1$s Du bruker %2$s Oppgrader og prøv igjen."
+
+#: inc/admin-notice/template.php:8
+msgid "Hide"
+msgstr "Skjul"
+
+#: inc/builder/core/base.php:97
+msgid "Page Builder"
+msgstr "Page Builder"
+
+#: inc/builder/core/base.php:128
+msgid "Use Page Builder"
+msgstr "Bruk Page Builder"
+
+#: inc/builder/core/base.php:334
+msgid "Delete the section?"
+msgstr "Slett seksjonen?"
+
+#: inc/builder/core/base.php:431 inc/builder/core/configuration-helpers.php:96
+#: inc/builder/sections/builder-templates/text.php:142
+msgid "Set image"
+msgstr "Set bilde"
+
+#: inc/builder/core/base.php:464
+#: inc/builder/core/templates/overlay-tinymce.php:4
+#: inc/builder/sections/builder-templates/banner-slide.php:42
+#: inc/builder/sections/builder-templates/banner-slide.php:44
+#: inc/builder/sections/builder-templates/gallery-item.php:40
+#: inc/builder/sections/builder-templates/gallery-item.php:42
+#: inc/builder/sections/builder-templates/text.php:91
+msgid "Edit content"
+msgstr "Redigere innhold"
+
+#: inc/builder/core/base.php:550
+msgid "Current image"
+msgstr "Nåværende bilde"
+
+#: inc/builder/core/base.php:552
+msgid "Remove Current Image"
+msgstr "Fjern Nåværende bilde"
+
+#: inc/builder/core/base.php:656
+msgid "Duplicate this page with %s."
+msgstr "Kopiere denne siden %s"
+
+#: inc/builder/core/base.php:1047
+msgid "Want some ideas?"
+msgstr "Vil noen ideer?"
+
+#: inc/builder/core/base.php:1050
+msgid "%s and get a quick start with pre-made designer builder templates."
+msgstr "%s og få en rask start med pre-laget designer builder maler."
+
+#: inc/builder/core/base.php:1055
+#: inc/builder/sections/builder-templates/text.php:27
+msgid "Upgrade to %s"
+msgstr "Oppgrader %s"
+
+#: inc/builder/core/templates/menu.php:39
+msgid "Get more."
+msgstr "Få mer."
+
+#: inc/builder/core/templates/menu.php:43
+msgid "Looking for more sections and options? %s"
+msgstr "Leter du etter flere seksjoner og %s"
+
+#: inc/builder/core/templates/menu.php:47
+msgid "Upgrade to Make Plus."
+msgstr "Oppgrader lage Plus."
+
+#: inc/builder/core/templates/overlay-configuration.php:4
+#: inc/builder/core/templates/section-header.php:22
+#: inc/builder/core/templates/section-header.php:23
+msgid "Configure section"
+msgstr "Konfigurer seksjon"
+
+#: inc/builder/core/templates/overlay-header.php:6
+msgid "Configuration"
+msgstr "Konfigurasjon"
+
+#: inc/builder/core/templates/overlay-header.php:7
+msgid "Done"
+msgstr "Ferdig"
+
+#: inc/builder/core/templates/section-header.php:12
+#: inc/builder/core/templates/section-header.php:13
+msgid "Delete section"
+msgstr "Slett seksjon"
+
+#: inc/builder/core/templates/section-header.php:85
+msgid "Click to toggle"
+msgstr "Klikk for å veksle"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:31
+msgid "Drag-and-drop this slide into place"
+msgstr "Dra-og-slipp dette lysbildet på plass"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:35
+msgid "Set banner image"
+msgstr "Still banner bilde"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:37
+#: inc/builder/sections/builder-templates/banner-slide.php:39
+#: inc/builder/sections/builder-templates/banner-slide.php:59
+msgid "Configure slide"
+msgstr "Konfigurer lysbilde"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:47
+#: inc/builder/sections/builder-templates/banner-slide.php:49
+msgid "Delete slide"
+msgstr "Slett lysbilde"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:74
+msgid "Content position"
+msgstr "Innhold posisjon"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:77
+#: inc/builder/sections/section-definitions.php:257
+#: inc/builder/sections/section-definitions.php:441
+#: inc/builder/sections/section-definitions.php:452
+#: inc/customizer/choices.php:87 inc/customizer/choices.php:209
+#: inc/customizer/choices.php:232 inc/customizer/choices.php:243
+#: inc/customizer/choices.php:254 inc/gallery-slider/gallery-slider.php:118
+msgid "None"
+msgstr "Ingen"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:78
+#: inc/customizer/choices.php:134 inc/customizer/choices.php:176
+#: inc/customizer/choices.php:218
+msgid "Left"
+msgstr "Venstre"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:79
+#: inc/customizer/choices.php:136 inc/customizer/choices.php:177
+#: inc/customizer/choices.php:220
+msgid "Right"
+msgstr "Rett"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:84
+#: inc/builder/sections/section-definitions.php:109
+#: inc/builder/sections/section-definitions.php:285
+#: inc/builder/sections/section-definitions.php:473
+msgid "Darken background to improve readability"
+msgstr "Mørkere bakgrunn for å bedre lesbarhet"
+
+#: inc/builder/sections/builder-templates/banner-slide.php:90
+#: inc/builder/sections/section-definitions.php:125
+#: inc/builder/sections/section-definitions.php:301
+#: inc/builder/sections/section-definitions.php:489
+msgid "Background color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/builder/sections/builder-templates/banner.php:29
+msgid "Add new slide"
+msgstr "Legg til ny side"
+
+#: inc/builder/sections/builder-templates/banner.php:32
+#: inc/builder/sections/builder-templates/gallery.php:34
+msgid "Add Item"
+msgstr "Legg til element"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:29
+msgid "Drag-and-drop this item into place"
+msgstr "Dra-og-slipp dette elementet på plass"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:33
+msgid "Set gallery image"
+msgstr "Set galleri bilde"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:35
+#: inc/builder/sections/builder-templates/gallery-item.php:37
+#: inc/builder/sections/builder-templates/gallery-item.php:57
+msgid "Configure item"
+msgstr "Konfigurer element"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:45
+#: inc/builder/sections/builder-templates/gallery-item.php:47
+msgid "Delete item"
+msgstr "Slett element"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:72
+msgid "Enter item title"
+msgstr "Skriv inn element tittel"
+
+#: inc/builder/sections/builder-templates/gallery-item.php:79
+msgid "Item link URL"
+msgstr "Sak lenke URL"
+
+#: inc/builder/sections/builder-templates/gallery.php:31
+msgid "Add new item"
+msgstr "Legg til et nytt element"
+
+#: inc/builder/sections/builder-templates/text.php:22
+msgid "%s and convert any column into an area for widgets."
+msgstr "%s og konvertere en kolonne i et område for widgets."
+
+#: inc/builder/sections/builder-templates/text.php:81
+#: inc/builder/sections/builder-templates/text.php:84
+#: inc/builder/sections/builder-templates/text.php:160
+msgid "Configure column"
+msgstr "Konfigurer kolonne"
+
+#: inc/builder/sections/builder-templates/text.php:88
+msgid "Edit text column"
+msgstr "Rediger tekst kolonne"
+
+#: inc/builder/sections/builder-templates/text.php:119
+msgid "Drag-and-drop this column into place"
+msgstr "Dra-og-slipp denne kolonnen på plass"
+
+#: inc/builder/sections/builder-templates/text.php:175
+msgid "Enter column title"
+msgstr "Skriv inn kolonnetittel"
+
+#: inc/builder/sections/builder-templates/text.php:182
+msgid "Image link URL"
+msgstr "Bilde lenk URL"
+
+#: inc/builder/sections/section-definitions.php:73
+#: inc/builder/sections/section-definitions.php:92
+#: inc/builder/sections/section-definitions.php:422
+msgid "Columns"
+msgstr "Kolonner"
+
+#: inc/builder/sections/section-definitions.php:75
+msgid "Create rearrangeable columns of content and images."
+msgstr "Lag rearrangeable kolonner med innhold og bilder."
+
+#: inc/builder/sections/section-definitions.php:85
+#: inc/builder/sections/section-definitions.php:222
+#: inc/builder/sections/section-definitions.php:416
+msgid "Enter section title"
+msgstr "Angi tittel"
+
+#: inc/builder/sections/section-definitions.php:104
+#: inc/builder/sections/section-definitions.php:280
+#: inc/builder/sections/section-definitions.php:468
+msgid "Background image"
+msgstr "Bakgrunnsbilde"
+
+#: inc/builder/sections/section-definitions.php:116
+#: inc/builder/sections/section-definitions.php:292
+#: inc/builder/sections/section-definitions.php:480
+msgid "Background style"
+msgstr "Bakgrunn stil"
+
+#: inc/builder/sections/section-definitions.php:119
+#: inc/builder/sections/section-definitions.php:295
+#: inc/builder/sections/section-definitions.php:483
+#: inc/customizer/choices.php:121
+msgid "Tile"
+msgstr "Tile"
+
+#: inc/builder/sections/section-definitions.php:120
+#: inc/builder/sections/section-definitions.php:296
+#: inc/builder/sections/section-definitions.php:484
+#: inc/customizer/choices.php:157
+msgid "Cover"
+msgstr "Dekke"
+
+#: inc/builder/sections/section-definitions.php:210
+msgid "Banner"
+msgstr "Banner"
+
+#: inc/builder/sections/section-definitions.php:212
+msgid "Display multiple types of content in a banner or a slider."
+msgstr "Vise flere typer innhold i et banner eller en skyveknapp."
+
+#: inc/builder/sections/section-definitions.php:227
+#: inc/gallery-slider/gallery-slider.php:98
+msgid "Hide navigation arrows"
+msgstr "Skjul navigasjonspilene"
+
+#: inc/builder/sections/section-definitions.php:233
+#: inc/gallery-slider/gallery-slider.php:102
+msgid "Hide navigation dots"
+msgstr "Skjul navigasjons prikker"
+
+#: inc/builder/sections/section-definitions.php:239
+msgid "Autoplay slideshow"
+msgstr "Autoplay lysbilde"
+
+#: inc/builder/sections/section-definitions.php:245
+#: inc/gallery-slider/gallery-slider.php:110
+msgid "Time between slides (ms)"
+msgstr "Tid mellom lysbilder (ms)"
+
+#: inc/builder/sections/section-definitions.php:251
+msgid "Transition effect"
+msgstr "Overgangseffekt"
+
+#: inc/builder/sections/section-definitions.php:255
+#: inc/gallery-slider/gallery-slider.php:116
+msgid "Slide horizontal"
+msgstr "Skyv horisontalt"
+
+#: inc/builder/sections/section-definitions.php:256
+#: inc/gallery-slider/gallery-slider.php:117
+msgid "Fade"
+msgstr "Fade"
+
+#: inc/builder/sections/section-definitions.php:262
+msgid "Section height (px)"
+msgstr "Seksjon høyde (px)"
+
+#: inc/builder/sections/section-definitions.php:268
+msgid "Responsive behavior"
+msgstr "Responsive oppførsel"
+
+#: inc/builder/sections/section-definitions.php:271
+msgid ""
+"Choose how the Banner will respond to varying screen widths. Default is "
+"ideal for large amounts of written content, while Aspect is better for "
+"showing your images."
+msgstr ""
+"Velg hvordan Banner vil svare på varierende skjermbredder. Standard er "
+"ideell for store mengder skriftlig innhold, mens Aspect er bedre for å vise "
+"bildene dine."
+
+#: inc/builder/sections/section-definitions.php:273
+#: inc/customizer/choices.php:182 inc/customizer/sections/stylekit.php:48
+#: inc/customizer/sections/typography.php:26
+msgid "Default"
+msgstr "Standard"
+
+#: inc/builder/sections/section-definitions.php:274
+msgid "Aspect"
+msgstr "Aspekt"
+
+#: inc/builder/sections/section-definitions.php:404
+msgid "Gallery"
+msgstr "Galleri"
+
+#: inc/builder/sections/section-definitions.php:406
+msgid "Display your images in various grid combinations."
+msgstr "Vise bildene dine i ulike nett kombinasjoner."
+
+#: inc/builder/sections/section-definitions.php:435
+msgid "Aspect ratio"
+msgstr "Størrelsesforholdet"
+
+#: inc/builder/sections/section-definitions.php:438
+msgid "Square"
+msgstr "Kvadrat"
+
+#: inc/builder/sections/section-definitions.php:439
+msgid "Landscape"
+msgstr "Landskapps"
+
+#: inc/builder/sections/section-definitions.php:440
+msgid "Portrait"
+msgstr "Portrett"
+
+#: inc/builder/sections/section-definitions.php:447
+msgid "Caption style"
+msgstr "Bildetekst stil"
+
+#: inc/builder/sections/section-definitions.php:450
+msgid "Reveal"
+msgstr "Avslør"
+
+#: inc/builder/sections/section-definitions.php:451
+msgid "Overlay"
+msgstr "Overlay"
+
+#: inc/builder/sections/section-definitions.php:458
+msgid "Caption color"
+msgstr "Bildetekst farge"
+
+#: inc/builder/sections/section-definitions.php:461
+#: inc/customizer/sections/stylekit.php:50
+msgid "Light"
+msgstr "Lys"
+
+#: inc/builder/sections/section-definitions.php:462
+#: inc/customizer/sections/stylekit.php:51
+msgid "Dark"
+msgstr "Mørk"
+
+#: inc/compatibility.php:35
+msgid ""
+"The uploaded package appears to be a plugin. PLEASE INSTALL AS A PLUGIN."
+msgstr ""
+"Den opplastede pakken ser ut til å være en plugin. Vennligst installer som "
+"en plugin."
+
+#: inc/compatibility.php:331
+msgid ""
+"Make requires version %1$s of WordPress or higher. Please %2$s to ensure "
+"full compatibility."
+msgstr ""
+"Gjør krever %1$s av WordPress eller høyere. %2$s for å sikre full "
+"kompatibilitet."
+
+#: inc/compatibility.php:336
+msgid "update WordPress"
+msgstr "oppdatering WordPress"
+
+#: inc/compatibility.php:366
+msgid ""
+"A new version of Make Plus is available. If you encounter problems updating "
+"through %1$s, please %2$s to update manually."
+msgstr ""
+"En ny versjon av Make Plus er tilgjengelig. Hvis du får problemer "
+"oppdatering %1$s %2$s for å oppdatere manuelt."
+
+#: inc/compatibility.php:370
+msgid "the WordPress interface"
+msgstr "WordPress-grensesnittet"
+
+#: inc/compatibility.php:375
+msgid "follow these steps"
+msgstr "Følg denne fremgangsmåten"
+
+#: inc/customizer/bootstrap.php:96
+msgid "General"
+msgstr "Generelt"
+
+#: inc/customizer/bootstrap.php:97
+msgid "Typography"
+msgstr "Typografi"
+
+#: inc/customizer/bootstrap.php:98
+msgid "Color"
+msgstr "Farge"
+
+#: inc/customizer/bootstrap.php:99
+msgid "Background Images"
+msgstr "Bakgrunnsbilder"
+
+#: inc/customizer/bootstrap.php:100
+#: inc/customizer/sections/content-layout.php:52
+#: inc/customizer/sections/content-layout.php:196
+msgid "Layout"
+msgstr "Oppsett"
+
+#: inc/customizer/bootstrap.php:101
+#: inc/customizer/sections/background-images.php:24
+#: inc/customizer/sections/content-layout.php:47
+msgid "Header"
+msgstr "Header"
+
+#: inc/customizer/bootstrap.php:102
+#: inc/customizer/sections/background-images.php:42
+#: inc/customizer/sections/color-scheme.php:584
+#: inc/customizer/sections/content-layout.php:172
+#: inc/customizer/sections/typography.php:158
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/customizer/bootstrap.php:148
+msgid "Sidebars & Widgets"
+msgstr "Sidefelt & Widgets"
+
+#: inc/customizer/bootstrap.php:470
+msgid "No results match"
+msgstr "Ingen resultater kamp"
+
+#: inc/customizer/bootstrap.php:471
+msgid "No matching fonts"
+msgstr "Ingen samsvar fonter"
+
+#: inc/customizer/bootstrap.php:473 inc/customizer/sections/stylekit.php:29
+msgid "Upgrade to Make Plus"
+msgstr "Oppgrader lage Plus"
+
+#: inc/customizer/choices.php:43 inc/customizer/choices.php:65
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/choices.php:44
+msgid "Bold"
+msgstr "Dristig"
+
+#: inc/customizer/choices.php:66
+msgid "Italic"
+msgstr "Kursiv"
+
+#: inc/customizer/choices.php:88
+msgid "Uppercase"
+msgstr "Store bokstaver"
+
+#: inc/customizer/choices.php:89
+msgid "Lowercase"
+msgstr "Små bokstaver"
+
+#: inc/customizer/choices.php:110
+msgid "Always"
+msgstr "Alltid"
+
+#: inc/customizer/choices.php:111
+msgid "On hover/focus"
+msgstr "På hover / fokus"
+
+#: inc/customizer/choices.php:112
+msgid "Never"
+msgstr "Aldri"
+
+#: inc/customizer/choices.php:120
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#: inc/customizer/choices.php:122
+msgid "Tile Horizontally"
+msgstr "Tile horisontalt"
+
+#: inc/customizer/choices.php:123
+msgid "Tile Vertically"
+msgstr "Tile vertikalt"
+
+#: inc/customizer/choices.php:131
+msgid "Top Left"
+msgstr "Øverst til venstre"
+
+#: inc/customizer/choices.php:132 inc/customizer/choices.php:273
+msgid "Top"
+msgstr "Topp"
+
+#: inc/customizer/choices.php:133
+msgid "Top Right"
+msgstr "Øverst til høyre"
+
+#: inc/customizer/choices.php:135 inc/customizer/choices.php:219
+msgid "Center"
+msgstr "Sentrum"
+
+#: inc/customizer/choices.php:137
+msgid "Bottom Left"
+msgstr "Bunn Venstre"
+
+#: inc/customizer/choices.php:138
+msgid "Bottom"
+msgstr "Bottom"
+
+#: inc/customizer/choices.php:139
+msgid "Bottom Right"
+msgstr "Nede til høyre"
+
+#: inc/customizer/choices.php:147
+msgid "Scroll"
+msgstr "Rull"
+
+#: inc/customizer/choices.php:148
+msgid "Fixed"
+msgstr "Fast"
+
+#: inc/customizer/choices.php:156
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/choices.php:158
+msgid "Contain"
+msgstr "Inneholde"
+
+#: inc/customizer/choices.php:163
+msgid "Full-width"
+msgstr "Full bredde"
+
+#: inc/customizer/choices.php:164
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/customizer/choices.php:169 inc/customizer/choices.php:197
+msgid "Traditional"
+msgstr "Tradisjonell"
+
+#: inc/customizer/choices.php:170 inc/customizer/choices.php:198
+msgid "Centered"
+msgstr "Sentrert"
+
+#: inc/customizer/choices.php:171
+msgid "Navigation Below"
+msgstr "Navigasjon Nedenfor"
+
+#: inc/customizer/choices.php:183
+msgid "Flipped"
+msgstr "Vendt"
+
+#: inc/customizer/choices.php:207
+msgid "Post header"
+msgstr "Post header"
+
+#: inc/customizer/choices.php:208
+msgid "Thumbnail"
+msgstr "Thumbnail"
+
+#: inc/customizer/choices.php:230
+msgid "Absolute (%s)"
+msgstr "Absolute %s"
+
+#: inc/customizer/choices.php:231
+msgid "Relative (1 week ago)"
+msgstr "Relativ (1 uke siden)"
+
+#: inc/customizer/choices.php:241
+msgid "With avatar"
+msgstr "Med avatar"
+
+#: inc/customizer/choices.php:242
+msgid "Without avatar"
+msgstr "Uten avatar"
+
+#: inc/customizer/choices.php:252
+msgid "With icon"
+msgstr "Med ikonet"
+
+#: inc/customizer/choices.php:253
+msgid "With text"
+msgstr "Med tekst"
+
+#: inc/customizer/choices.php:274
+msgid "Before content"
+msgstr "Før innhold"
+
+#: inc/customizer/choices.php:275
+msgid "Post footer"
+msgstr "Post footer"
+
+#: inc/customizer/defaults.php:28
+msgid "Menu"
+msgstr "Meny"
+
+#: inc/customizer/defaults.php:29
+msgid "Featured"
+msgstr "Utvalgt"
+
+#: inc/customizer/defaults.php:30
+msgid "Read more"
+msgstr "Les mer"
+
+#: inc/customizer/fonts.php:47
+msgid "Serif"
+msgstr "Serif"
+
+#: inc/customizer/fonts.php:51
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: inc/customizer/fonts.php:55
+msgid "Monospaced"
+msgstr "Monospaced"
+
+#: inc/customizer/fonts.php:219
+msgid "All"
+msgstr "Alt"
+
+#: inc/customizer/fonts.php:220
+msgid "Arabic"
+msgstr "Arabic"
+
+#: inc/customizer/fonts.php:221
+msgid "Cyrillic"
+msgstr "Kyrillisk"
+
+#: inc/customizer/fonts.php:222
+msgid "Cyrillic Extended"
+msgstr "Kyrillisk Utvidet"
+
+#: inc/customizer/fonts.php:223
+msgid "Devanagari"
+msgstr "Devanagari"
+
+#: inc/customizer/fonts.php:224
+msgid "Greek"
+msgstr "Gresk"
+
+#: inc/customizer/fonts.php:225
+msgid "Greek Extended"
+msgstr "Gresk Utvidet"
+
+#: inc/customizer/fonts.php:226
+msgid "Hebrew"
+msgstr "Hebrew"
+
+#: inc/customizer/fonts.php:227
+msgid "Khmer"
+msgstr "Khmer"
+
+#: inc/customizer/fonts.php:228
+msgid "Latin"
+msgstr "Latin"
+
+#: inc/customizer/fonts.php:229
+msgid "Latin Extended"
+msgstr "Latin Utvidet"
+
+#: inc/customizer/fonts.php:230
+msgid "Tamil"
+msgstr "Tamil"
+
+#: inc/customizer/fonts.php:231
+msgid "Telugu"
+msgstr "Telugu"
+
+#: inc/customizer/fonts.php:232
+msgid "Thai"
+msgstr "Thai"
+
+#: inc/customizer/fonts.php:233
+msgid "Vietnamese"
+msgstr "Vietnamesisk"
+
+#: inc/customizer/fonts.php:351
+msgid "Standard Fonts"
+msgstr "Standard Fonts"
+
+#: inc/customizer/fonts.php:353
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/customizer/sections/background-images.php:33
+msgid "Main Column"
+msgstr "Hoved Column"
+
+#: inc/customizer/sections/background-images.php:77
+#: inc/customizer/sections/background.php:42
+msgid "Background Image"
+msgstr "Bakgrunnsbilde"
+
+#: inc/customizer/sections/background-images.php:86
+#: inc/customizer/sections/background.php:44
+msgid "Repeat"
+msgstr "Gjenta"
+
+#: inc/customizer/sections/background-images.php:97
+#: inc/customizer/sections/background.php:59
+msgid "Position"
+msgstr "Posisjon"
+
+#: inc/customizer/sections/background-images.php:108
+#: inc/customizer/sections/background.php:70
+msgid "Attachment"
+msgstr "Vedlegg"
+
+#: inc/customizer/sections/background-images.php:120
+#: inc/customizer/sections/background.php:82
+msgid "Size"
+msgstr "Størrelse"
+
+#: inc/customizer/sections/background.php:28
+msgid "Site Background Color"
+msgstr "Sidebakgrunnsfarge"
+
+#: inc/customizer/sections/background.php:35
+msgid "Site"
+msgstr "Side"
+
+#: inc/customizer/sections/color-scheme.php:24
+#: inc/customizer/sections/color-scheme.php:313
+#: inc/customizer/sections/color-scheme.php:327
+#: inc/customizer/sections/color-scheme.php:356
+#: inc/customizer/sections/color-scheme.php:444
+#: inc/customizer/sections/color-scheme.php:514
+#: inc/customizer/sections/color-scheme.php:528
+#: inc/customizer/sections/color-scheme.php:542
+#: inc/customizer/sections/color-scheme.php:563
+#: inc/customizer/sections/color-scheme.php:605
+#: inc/customizer/sections/color-scheme.php:619
+#: inc/customizer/sections/content-layout.php:25
+#: inc/customizer/sections/typography.php:24
+msgid "Global"
+msgstr "Globalt"
+
+#: inc/customizer/sections/color-scheme.php:29
+msgid "Color Scheme"
+msgstr "Fargevalg"
+
+#: inc/customizer/sections/color-scheme.php:39
+#: inc/customizer/sections/color-scheme.php:355
+#: inc/customizer/sections/color-scheme.php:562
+#: inc/customizer/sections/color-scheme.php:604
+msgid "Primary Color"
+msgstr "Primær farge"
+
+#: inc/customizer/sections/color-scheme.php:41
+#: inc/customizer/sections/color-scheme.php:54
+#: inc/customizer/sections/color-scheme.php:67
+#: inc/customizer/sections/color-scheme.php:80
+msgid "Used for: %s"
+msgstr "Brukes %s"
+
+#: inc/customizer/sections/color-scheme.php:42
+msgid "links"
+msgstr "lenker"
+
+#: inc/customizer/sections/color-scheme.php:52
+#: inc/customizer/sections/color-scheme.php:326
+#: inc/customizer/sections/color-scheme.php:541
+msgid "Secondary Color"
+msgstr "Sekundær farge"
+
+#: inc/customizer/sections/color-scheme.php:55
+msgid "form inputs, table borders, ruled lines, slider buttons"
+msgstr "skjema innganger, bordkanter, opptrukne linjer, skyveknapper"
+
+#: inc/customizer/sections/color-scheme.php:65
+#: inc/customizer/sections/color-scheme.php:167
+#: inc/customizer/sections/color-scheme.php:211
+#: inc/customizer/sections/color-scheme.php:256
+#: inc/customizer/sections/color-scheme.php:259
+#: inc/customizer/sections/color-scheme.php:286
+#: inc/customizer/sections/color-scheme.php:289
+#: inc/customizer/sections/color-scheme.php:422
+#: inc/customizer/sections/color-scheme.php:513
+#: inc/customizer/sections/color-scheme.php:527
+#: inc/formatting/formatting.php:186
+msgid "Text Color"
+msgstr "Tekstfarge"
+
+#: inc/customizer/sections/color-scheme.php:68
+msgid "most text"
+msgstr "mest tekst"
+
+#: inc/customizer/sections/color-scheme.php:78
+#: inc/customizer/sections/color-scheme.php:309
+#: inc/customizer/sections/color-scheme.php:312
+msgid "Detail Color"
+msgstr "Detalj Color"
+
+#: inc/customizer/sections/color-scheme.php:81
+msgid "UI icons"
+msgstr "UI ikoner"
+
+#: inc/customizer/sections/color-scheme.php:88
+#: inc/customizer/sections/color-scheme.php:549
+#: inc/customizer/sections/typography.php:31
+msgid "Links"
+msgstr "Lenker"
+
+#: inc/customizer/sections/color-scheme.php:98
+#: inc/customizer/sections/color-scheme.php:440
+#: inc/customizer/sections/color-scheme.php:443
+#: inc/customizer/sections/color-scheme.php:573
+#: inc/customizer/sections/color-scheme.php:615
+#: inc/customizer/sections/color-scheme.php:618
+msgid "Link Hover/Focus Color"
+msgstr "Link Hover / Focus Color"
+
+#: inc/customizer/sections/color-scheme.php:99
+msgid ""
+"The default link color is controlled by the \"Primary Color\" option above."
+msgstr ""
+"Standard koblingen farge er kontrollert av den \"Primær farge \" "
+"alternativet ovenfor."
+
+#: inc/customizer/sections/color-scheme.php:105
+#: inc/customizer/sections/color-scheme.php:150
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: inc/customizer/sections/color-scheme.php:113
+msgid "Main Column Background Color"
+msgstr "Hoved kolonne bakgrunnsfarge"
+
+#: inc/customizer/sections/color-scheme.php:131
+#: inc/customizer/sections/color-scheme.php:191
+#: inc/customizer/sections/color-scheme.php:337
+#: inc/customizer/sections/color-scheme.php:366
+#: inc/customizer/sections/color-scheme.php:397
+#: inc/customizer/sections/color-scheme.php:478
+#: inc/customizer/sections/color-scheme.php:653
+msgid "Opacity"
+msgstr "Opacity"
+
+#: inc/customizer/sections/color-scheme.php:159
+#: inc/customizer/sections/color-scheme.php:212
+#: inc/customizer/sections/color-scheme.php:260
+#: inc/customizer/sections/color-scheme.php:290
+msgid "Site Header"
+msgstr "Side Header"
+
+#: inc/customizer/sections/color-scheme.php:173
+#: inc/customizer/sections/color-scheme.php:323
+#: inc/customizer/sections/color-scheme.php:388
+#: inc/customizer/sections/color-scheme.php:460
+#: inc/customizer/sections/color-scheme.php:635
+#: inc/formatting/formatting.php:185
+msgid "Background Color"
+msgstr "Bakgrunnsfarge"
+
+#: inc/customizer/sections/color-scheme.php:208
+#: inc/customizer/sections/typography.php:72
+msgid "Site Title &amp; Tagline"
+msgstr "Side Tittel & amp; Slagord"
+
+#: inc/customizer/sections/color-scheme.php:210
+msgid "These options override the %s option in the %s section."
+msgstr "Disse alternativene %s alternativet %s seksjonen."
+
+#: inc/customizer/sections/color-scheme.php:221
+msgid "Site Title Color"
+msgstr "Side tittel farge"
+
+#: inc/customizer/sections/color-scheme.php:230
+msgid "Tagline Color"
+msgstr "Slagord farge"
+
+#: inc/customizer/sections/color-scheme.php:241
+#: inc/customizer/sections/typography.php:84
+msgid "Main Menu"
+msgstr "Hovedmeny"
+
+#: inc/customizer/sections/color-scheme.php:246
+#: inc/customizer/sections/typography.php:86
+msgid "Menu Items"
+msgstr "Menyelementer"
+
+#: inc/customizer/sections/color-scheme.php:258
+#: inc/customizer/sections/color-scheme.php:288
+#: inc/customizer/sections/color-scheme.php:311
+#: inc/customizer/sections/color-scheme.php:325
+#: inc/customizer/sections/color-scheme.php:354
+#: inc/customizer/sections/color-scheme.php:442
+#: inc/customizer/sections/color-scheme.php:512
+#: inc/customizer/sections/color-scheme.php:526
+#: inc/customizer/sections/color-scheme.php:540
+#: inc/customizer/sections/color-scheme.php:561
+#: inc/customizer/sections/color-scheme.php:603
+#: inc/customizer/sections/color-scheme.php:617
+msgid "This option overrides the %s option in the %s section."
+msgstr "Dette alternativet %s alternativet %s seksjonen."
+
+#: inc/customizer/sections/color-scheme.php:270
+#: inc/customizer/sections/color-scheme.php:300
+msgid "Hover/Focus Text Color"
+msgstr "Hover / Fokus tekstfarge"
+
+#: inc/customizer/sections/color-scheme.php:276
+#: inc/customizer/sections/typography.php:87
+msgid "Sub-Menu Items"
+msgstr "Sub-menyelementer"
+
+#: inc/customizer/sections/color-scheme.php:352
+msgid "Hover/Focus Background Color"
+msgstr "Hover / Focus bakgrunnsfarge"
+
+#: inc/customizer/sections/color-scheme.php:378
+#: inc/customizer/sections/typography.php:109
+msgid "Current Item"
+msgstr "Nåværende element"
+
+#: inc/customizer/sections/color-scheme.php:414
+#: inc/customizer/sections/typography.php:133
+msgid "Header Bar"
+msgstr "Header bar"
+
+#: inc/customizer/sections/color-scheme.php:431
+#: inc/customizer/sections/color-scheme.php:559
+#: inc/customizer/sections/color-scheme.php:601
+msgid "Link Color"
+msgstr "Lenk farge"
+
+#: inc/customizer/sections/color-scheme.php:454
+#: inc/customizer/sections/color-scheme.php:538
+#: inc/customizer/sections/color-scheme.php:629
+#: inc/formatting/formatting.php:207
+msgid "Border Color"
+msgstr "Border farge"
+
+#: inc/customizer/sections/color-scheme.php:495
+#: inc/customizer/sections/typography.php:146
+msgid "Sidebars"
+msgstr "Sidefelt"
+
+#: inc/customizer/sections/color-scheme.php:500
+#: inc/customizer/sections/content-layout.php:177
+msgid "Widgets"
+msgstr "Widget"
+
+#: inc/customizer/sections/color-scheme.php:510
+msgid "Widget Title Color"
+msgstr "Widget tittel Color"
+
+#: inc/customizer/sections/color-scheme.php:524
+msgid "Widget Body Color"
+msgstr "Widget body farge"
+
+#: inc/customizer/sections/color-scheme.php:592
+msgid "Footer Text Color"
+msgstr "Bunntekstfarge"
+
+#: inc/customizer/sections/content-layout.php:33
+msgid "Site Layout"
+msgstr "Sideoppsett"
+
+#: inc/customizer/sections/content-layout.php:61
+msgid "Header Layout"
+msgstr "Header layout"
+
+#: inc/customizer/sections/content-layout.php:72
+msgid "Show Title/Logo On"
+msgstr "Vis tittel / logo på"
+
+#: inc/customizer/sections/content-layout.php:84
+msgid "Header Bar Layout"
+msgstr "Header bar layout"
+
+#: inc/customizer/sections/content-layout.php:94
+#: inc/customizer/sections/content-layout.php:214
+msgid "Padding"
+msgstr "Padding"
+
+#: inc/customizer/sections/content-layout.php:102
+msgid "Remove padding beneath header"
+msgstr "Fjern padding under header"
+
+#: inc/customizer/sections/content-layout.php:109
+#: inc/customizer/sections/content-layout.php:229
+msgid "Options"
+msgstr "Alternativer"
+
+#: inc/customizer/sections/content-layout.php:119
+#: inc/customizer/sections/typography.php:136
+msgid "Header Bar Text"
+msgstr "Header bar tekst"
+
+#: inc/customizer/sections/content-layout.php:120
+msgid ""
+"This text only appears if a custom menu has not been assigned to the Header "
+"Bar Menu location in the Navigation section."
+msgstr ""
+"Denne teksten vises bare hvis en egendefinert meny ikke har blitt tildelt "
+"til Header Bar Meny plassering i navigasjons delen."
+
+#: inc/customizer/sections/content-layout.php:128
+msgid "Optional Header Elements"
+msgstr "Valgfri header elements"
+
+#: inc/customizer/sections/content-layout.php:136
+msgid "Show search field"
+msgstr "Vis søkefelt"
+
+#: inc/customizer/sections/content-layout.php:145
+#: inc/customizer/sections/content-layout.php:255
+msgid "Show social icons"
+msgstr "Vis sosiale ikoner"
+
+#: inc/customizer/sections/content-layout.php:155
+#: inc/customizer/sections/content-layout.php:265
+#: inc/formatting/formatting.php:189
+msgid "Icon Size (px)"
+msgstr "Ikon storrelse (px)"
+
+#: inc/customizer/sections/content-layout.php:187
+msgid "Number of Widget Areas"
+msgstr "Antall widget områder"
+
+#: inc/customizer/sections/content-layout.php:205
+msgid "Footer Layout"
+msgstr "Bunntekst layout"
+
+#: inc/customizer/sections/content-layout.php:222
+msgid "Remove padding above footer"
+msgstr "Fjern polstring over footer"
+
+#: inc/customizer/sections/content-layout.php:239
+#: inc/customizer/sections/typography.php:162
+msgid "Footer Text"
+msgstr "Bunntekst"
+
+#: inc/customizer/sections/content-layout.php:247
+msgid "Optional Footer Elements"
+msgstr "Fotnote valgfritt elementer"
+
+#: inc/customizer/sections/content-layout.php:284
+msgid "Blog (Posts Page)"
+msgstr "Blogg (Posts side)"
+
+#: inc/customizer/sections/content-layout.php:303 inc/extras.php:398
+msgid "Archives"
+msgstr "Arkiv"
+
+#: inc/customizer/sections/content-layout.php:323 inc/extras.php:399
+msgid "Search Results"
+msgstr "Søkeresultater"
+
+#: inc/customizer/sections/content-layout.php:343 inc/extras.php:400
+msgid "Posts"
+msgstr "Innlegg"
+
+#: inc/customizer/sections/content-layout.php:362 inc/extras.php:401
+msgid "Pages"
+msgstr "Sider"
+
+#: inc/customizer/sections/content-layout.php:370
+msgid "Sidebars are not available on pages using the Builder Template."
+msgstr "Sidefelt er ikke tilgjengelige på sidene ved hjelp av Builder mal."
+
+#: inc/customizer/sections/content-layout.php:383
+msgid "Page Title"
+msgstr "Sidetittel"
+
+#: inc/customizer/sections/content-layout.php:391
+msgid "Hide title"
+msgstr "Skjul tittel"
+
+#: inc/customizer/sections/content-layout.php:460
+msgid "Header, Footer, Sidebars"
+msgstr "Header, bunntekst, sidefelt"
+
+#: inc/customizer/sections/content-layout.php:468
+msgid "Hide site header"
+msgstr "Skjul nettstedet header"
+
+#: inc/customizer/sections/content-layout.php:477
+msgid "Hide site footer"
+msgstr "Skjul nettstedet footer"
+
+#: inc/customizer/sections/content-layout.php:486
+msgid "Show left sidebar"
+msgstr "Vis sidebar venstre"
+
+#: inc/customizer/sections/content-layout.php:495
+msgid "Show right sidebar"
+msgstr "Vis høyre sidebar"
+
+#: inc/customizer/sections/content-layout.php:519
+msgid "Featured Images"
+msgstr "Utvalgte bilder"
+
+#: inc/customizer/sections/content-layout.php:528
+#: inc/customizer/sections/content-layout.php:585
+#: inc/customizer/sections/content-layout.php:631
+#: inc/customizer/sections/content-layout.php:677
+msgid "Location"
+msgstr "Beliggenhet"
+
+#: inc/customizer/sections/content-layout.php:539
+msgid "Alignment"
+msgstr "Alignment"
+
+#: inc/customizer/sections/content-layout.php:565
+msgid "Post Date"
+msgstr "Publisert"
+
+#: inc/customizer/sections/content-layout.php:574
+#: inc/customizer/sections/content-layout.php:620
+#: inc/customizer/sections/content-layout.php:666
+msgid "Style"
+msgstr "Stil"
+
+#: inc/customizer/sections/content-layout.php:611
+msgid "Post Author"
+msgstr "Innlegg forfatter"
+
+#: inc/customizer/sections/content-layout.php:657
+msgid "Comment Count"
+msgstr "Kommentar antall"
+
+#: inc/customizer/sections/content-layout.php:703
+msgid "Post Meta"
+msgstr "Post meta"
+
+#: inc/customizer/sections/content-layout.php:712
+msgid "Show categories"
+msgstr "Vis kategorier"
+
+#: inc/customizer/sections/content-layout.php:721
+msgid "Show tags"
+msgstr "Vis tags"
+
+#: inc/customizer/sections/content-layout.php:745
+msgid "Content"
+msgstr "Innhold"
+
+#: inc/customizer/sections/content-layout.php:754
+msgid "Generate excerpts automatically"
+msgstr "Generere utdrag automatisk"
+
+#: inc/customizer/sections/content-layout.php:782
+msgid "Breadcrumbs"
+msgstr "Brødsmuler"
+
+#: inc/customizer/sections/content-layout.php:783
+msgid "The Yoast SEO plugin enables this option."
+msgstr "Den Yoast SEO plugin gjør dette alternativet."
+
+#: inc/customizer/sections/content-layout.php:792
+msgid "Show breadcrumbs"
+msgstr "Vis brødsmuler"
+
+#: inc/customizer/sections/general.php:31
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/sections/general.php:39
+msgid "Regular Logo"
+msgstr "Regelmessig Logo"
+
+#: inc/customizer/sections/general.php:49
+msgid "Retina Logo (2x)"
+msgstr "Retina Logo (2x)"
+
+#: inc/customizer/sections/general.php:50
+msgid "The Retina Logo should be twice the size of the Regular Logo."
+msgstr "Retina-logoen skal være dobbelt så stor som den vanlige logoen."
+
+#: inc/customizer/sections/general.php:65
+msgid "Favicon"
+msgstr "Favicon"
+
+#: inc/customizer/sections/general.php:66
+msgid ""
+"File must be <strong>.png</strong> or <strong>.ico</strong> format. Optimal "
+"dimensions: <strong>32px x 32px</strong>."
+msgstr ""
+"Filen må være <strong> .png </ strong> eller <strong> Ico </ strong> format. "
+"Optimale dimensjoner: <strong> 32px x 32px </ strong>."
+
+#: inc/customizer/sections/general.php:77
+msgid "Apple Touch Icon"
+msgstr "Apple Touch ikon"
+
+#: inc/customizer/sections/general.php:78
+msgid ""
+"File must be <strong>.png</strong> format. Optimal dimensions: <strong>152px "
+"x 152px</strong>."
+msgstr ""
+"Filen må være <strong> .png </ strong> format. Optimale dimensjoner: "
+"<strong> 152px x 152px </ strong>."
+
+#: inc/customizer/sections/general.php:89
+msgid "Favicon & Apple Touch Icon"
+msgstr "Favicon & Apple Touch Ikon"
+
+#: inc/customizer/sections/general.php:96
+msgid ""
+"These options have been deprecated in favor of the Site Icon setting in "
+"WordPress core. Please visit the Site Identity section to configure your "
+"site icon."
+msgstr ""
+"Disse alternativene har blitt foreldet i favør av nettstedet Icon "
+"innstillingen i WordPress kjernen. Vennligst besøk nettstedet Identity delen "
+"til å konfigurere nettstedet ikonet."
+
+#: inc/customizer/sections/general.php:115
+msgid "Labels"
+msgstr "Etiketter"
+
+#: inc/customizer/sections/general.php:124
+msgid "Mobile Menu Label"
+msgstr "Mobile Meny Etikett"
+
+#: inc/customizer/sections/general.php:125
+msgid "Resize your browser window to preview the mobile menu label."
+msgstr "Resize nettleservinduet for å forhåndsvise mobile menyen etiketten."
+
+#: inc/customizer/sections/general.php:135
+msgid "Sticky Label"
+msgstr "Klistrelappen"
+
+#: inc/customizer/sections/general.php:151
+msgid "Read More Label"
+msgstr "Les mer etikett"
+
+#: inc/customizer/sections/general.php:163
+msgid "Social Profiles"
+msgstr "Sosiale profiler"
+
+#: inc/customizer/sections/general.php:164
+msgid ""
+"Enter the complete URL to your profile for each service below that you would "
+"like to share."
+msgstr ""
+"Skriv inn hele URL til din profil for hver tjeneste under som du ønsker å "
+"dele."
+
+#: inc/customizer/sections/general.php:252
+msgid ""
+"If you would like to add a social profile that is not listed above, or "
+"change the order of the icons, create a custom menu %s."
+msgstr ""
+"Hvis du ønsker å legge til en sosial profil som ikke er nevnt ovenfor, eller "
+"endre rekkefølgen på ikonene, lage en egendefinert %s"
+
+#: inc/customizer/sections/general.php:255
+msgid "as described here"
+msgstr "slik det er beskrevet her"
+
+#: inc/customizer/sections/general.php:268 inc/extras.php:471
+msgid "Email"
+msgstr "E-post"
+
+#: inc/customizer/sections/general.php:269
+msgid ""
+"Enter an email address to add an email icon link to your social profile "
+"icons."
+msgstr ""
+"Skriv inn en e-postadresse for å legge til en e-ikonet link til dine sosiale "
+"profil ikoner."
+
+#: inc/customizer/sections/general.php:288 inc/extras.php:475
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/customizer/sections/general.php:289
+msgid "If configured, an RSS icon will appear with your social profile icons."
+msgstr ""
+"Hvis det er konfigurert, vil en RSS-ikon vises med dine sosiale profil "
+"ikoner."
+
+#: inc/customizer/sections/general.php:295
+msgid "Default RSS"
+msgstr "Standard RSS"
+
+#: inc/customizer/sections/general.php:303
+msgid "Hide default RSS feed link"
+msgstr "Skjul standard RSS feed lenke"
+
+#: inc/customizer/sections/general.php:312
+msgid "Custom RSS URL (replaces default)"
+msgstr "Custom RSS URL (erstatter standard)"
+
+#: inc/customizer/sections/general.php:331
+msgid "White Label"
+msgstr "White Label"
+
+#: inc/customizer/sections/general.php:332
+msgid "Want to remove the theme byline from your website&#8217;s footer?"
+msgstr "Vil fjerne temaet byline fra ditt nettsted &#8217;s footer?"
+
+#: inc/customizer/sections/general.php:342
+#: inc/customizer/sections/typography.php:217
+msgid "Upgrade to %1$s"
+msgstr "Oppgrader %1$s"
+
+#: inc/customizer/sections/navigation.php:22
+msgid ""
+"After you have created your custom menu for social profile links, select it "
+"here."
+msgstr ""
+"Når du har opprettet din egendefinerte menyen for sosial profil koblinger, "
+"velger du det her."
+
+#: inc/customizer/sections/navigation.php:58
+msgid ""
+"Select which menu appears in each location. You can edit your menu content "
+"on the Menus screen in the Appearance section."
+msgstr ""
+"Velg hvilken meny vises på hvert sted. Du kan redigere menyen innhold på "
+"menyene skjermen i Utseende."
+
+#: inc/customizer/sections/site-title-tagline.php:38
+msgid "Hide Site Title"
+msgstr "Skjule Side Tittel"
+
+#: inc/customizer/sections/site-title-tagline.php:56
+msgid "Hide Tagline"
+msgstr "Skjul Undertittel"
+
+#: inc/customizer/sections/stylekit.php:23
+msgid "Style Kits"
+msgstr "Style Kits"
+
+#: inc/customizer/sections/stylekit.php:25
+msgid ""
+"%s to quickly apply designer-picked style choices (fonts, layout, colors) to "
+"your website."
+msgstr ""
+"%s til raskt å søke designerplukket stil valg (fonter, layout, farger) til "
+"nettstedet ditt."
+
+#: inc/customizer/sections/stylekit.php:37
+msgid "Kits"
+msgstr "Kits"
+
+#: inc/customizer/sections/stylekit.php:47
+msgid "Choose a kit"
+msgstr "Velg et kit"
+
+#: inc/customizer/sections/stylekit.php:49
+msgid "Hello"
+msgstr "Hallo"
+
+#: inc/customizer/sections/stylekit.php:52
+msgid "Modern"
+msgstr "Modern"
+
+#: inc/customizer/sections/stylekit.php:53
+msgid "Creative"
+msgstr "Kreativ"
+
+#: inc/customizer/sections/stylekit.php:54
+msgid "Vintage"
+msgstr "Årgang"
+
+#: inc/customizer/sections/typography.php:41
+#: inc/customizer/sections/typography.php:118
+#: inc/customizer/sections/typography.php:294
+#: inc/formatting/formatting.php:211
+msgid "Font Weight"
+msgstr "Font vekt"
+
+#: inc/customizer/sections/typography.php:56
+msgid "Text Headers"
+msgstr "Tekstheadinger"
+
+#: inc/customizer/sections/typography.php:58
+msgid "H1"
+msgstr "H1"
+
+#: inc/customizer/sections/typography.php:59
+msgid "H2"
+msgstr "H2"
+
+#: inc/customizer/sections/typography.php:60
+msgid "H3"
+msgstr "H3"
+
+#: inc/customizer/sections/typography.php:61
+msgid "H4"
+msgstr "H4"
+
+#: inc/customizer/sections/typography.php:62
+msgid "H5"
+msgstr "H5"
+
+#: inc/customizer/sections/typography.php:63
+msgid "H6"
+msgstr "H6"
+
+#: inc/customizer/sections/typography.php:74
+msgid "Site Title"
+msgstr "sidetittel"
+
+#: inc/customizer/sections/typography.php:75
+msgid "Tagline"
+msgstr "Slagord"
+
+#: inc/customizer/sections/typography.php:93
+msgid "Mobile"
+msgstr "Mobil"
+
+#: inc/customizer/sections/typography.php:101
+msgid "Use Menu Item styles in mobile view"
+msgstr "Bruk menyelement stiler i mobilvisning"
+
+#: inc/customizer/sections/typography.php:137
+msgid "Includes Header Text, Header Bar Menu items, and the search field."
+msgstr "Inkluderer topptekst, header barmeny elementer, og søkefeltet."
+
+#: inc/customizer/sections/typography.php:148
+#: inc/customizer/sections/typography.php:160
+msgid "Widget Title"
+msgstr "Widget tittel"
+
+#: inc/customizer/sections/typography.php:149
+#: inc/customizer/sections/typography.php:161
+msgid "Widget Body"
+msgstr "Widget body"
+
+#: inc/customizer/sections/typography.php:171
+msgid "Google Font Subsets"
+msgstr "Google Font Subsets"
+
+#: inc/customizer/sections/typography.php:178
+msgid "Character Subset"
+msgstr "Character delsett"
+
+#: inc/customizer/sections/typography.php:188
+msgid ""
+"Not all fonts provide each of these subsets. Please visit the %s to see "
+"which subsets are available for each font."
+msgstr ""
+"Ikke alle fonter gi hver av disse undergrupper. Vennligst %s for å se hvilke "
+"undergrupper er tilgjengelige for hver skrift."
+
+#: inc/customizer/sections/typography.php:192
+msgid "Google Fonts website"
+msgstr "Google Fonts hjemmeside"
+
+#: inc/customizer/sections/typography.php:206
+msgid "Typekit"
+msgstr "Typekit"
+
+#: inc/customizer/sections/typography.php:207
+msgid "Looking to add premium fonts from Typekit to your website?"
+msgstr ""
+"Ønsker du å legge til premium skrifter fra Typekit til nettstedet ditt?"
+
+#: inc/customizer/sections/typography.php:268
+msgid "Font Family"
+msgstr "Font familie"
+
+#: inc/customizer/sections/typography.php:279
+#: inc/formatting/formatting.php:187
+msgid "Font Size (px)"
+msgstr "Font storrelse (px)"
+
+#: inc/customizer/sections/typography.php:306
+msgid "Font Style"
+msgstr "Skriftstil"
+
+#: inc/customizer/sections/typography.php:318
+msgid "Text Transform"
+msgstr "Tekst transform"
+
+#: inc/customizer/sections/typography.php:330
+msgid "Line Height (em)"
+msgstr "Linje høyde (em)"
+
+#: inc/customizer/sections/typography.php:345
+msgid "Letter Spacing (px)"
+msgstr "Letter spacing (px)"
+
+#: inc/customizer/sections/typography.php:360
+msgid "Word Spacing (px)"
+msgstr "Ordavstand (px)"
+
+#: inc/customizer/sections/typography.php:375
+msgid "Link Underline"
+msgstr "Link understreket"
+
+#: inc/customizer/sections/typography.php:404
+msgid "Loading&hellip;"
+msgstr "Laster & hellip;"
+
+#: inc/edit-page.php:29
+msgid "Note: the Builder Template does not display a featured image."
+msgstr "Merk: Byggmester Mal ikke viser et utvalgt bilde."
+
+#: inc/edit-page.php:64
+msgid "Layout Settings"
+msgstr "Layout instillinger"
+
+#: inc/edit-page.php:86
+msgid "Post"
+msgstr "Inlet"
+
+#: inc/edit-page.php:90
+msgid "Looking to configure a unique layout for this %1$s? %2$s"
+msgstr "Ønsker du å konfigurere en unik utforming %1$s %2$s"
+
+#: inc/edit-page.php:96
+msgid "Upgrade to %s."
+msgstr "Oppgradere %s"
+
+#: inc/extras.php:91
+msgid "Page %s"
+msgstr "%s"
+
+#: inc/extras.php:358
+msgid ""
+"This widget area is currently disabled. Enable it in the \"Footer\" panel of "
+"the Customizer."
+msgstr ""
+"Dette widget område er deaktivert. Aktiver den i \"bunntekst \" panel av "
+"Customizer."
+
+#: inc/extras.php:369
+msgid ""
+"This widget area is currently disabled. Enable it in the \"Layout\" panel of "
+"the Customizer."
+msgstr ""
+"Dette widget område er deaktivert. Aktiver den i \"Layout \" panel av "
+"Customizer."
+
+#: inc/extras.php:374
+msgid ""
+"This widget area is currently enabled for the following views: %s. Change "
+"this in the \"Layout\" panel of the Customizer."
+msgstr ""
+"Dette widget område er aktivert for følgende %s Endre dette i \"Layout \" "
+"panel av Customizer."
+
+#: inc/extras.php:397
+msgid "Blog (Post Page)"
+msgstr "Blogg (Post side)"
+
+#: inc/formatting/formatting.php:178
+msgid "Format Builder"
+msgstr "Format Builder"
+
+#: inc/formatting/formatting.php:179
+msgid "Choose a format"
+msgstr "Velg et format"
+
+#: inc/formatting/formatting.php:180
+msgid "Insert"
+msgstr "Sett"
+
+#: inc/formatting/formatting.php:181
+msgid "Update"
+msgstr "Oppdatering"
+
+#: inc/formatting/formatting.php:182
+msgid "Remove"
+msgstr "Fjerne"
+
+#: inc/formatting/formatting.php:183
+msgid "Add icon"
+msgstr "Legg icon"
+
+#: inc/formatting/formatting.php:184
+msgid "Notice"
+msgstr "Varsel"
+
+#: inc/formatting/formatting.php:188
+msgid "Icon"
+msgstr "Ikon"
+
+#: inc/formatting/formatting.php:190
+msgid "Icon Color"
+msgstr "Ikon farge"
+
+#: inc/formatting/formatting.php:191
+msgid "Icon Position"
+msgstr "Ikon plassering"
+
+#: inc/formatting/formatting.php:192
+msgid "left"
+msgstr "venstre"
+
+#: inc/formatting/formatting.php:193
+msgid "right"
+msgstr "rett"
+
+#: inc/formatting/formatting.php:194
+msgid "Horizontal Padding (px)"
+msgstr "Horisontal padding (px)"
+
+#: inc/formatting/formatting.php:195
+msgid "Vertical Padding (px)"
+msgstr "Vertikal padding (px)"
+
+#: inc/formatting/formatting.php:196
+msgid "Border Style"
+msgstr "Border stil"
+
+#: inc/formatting/formatting.php:197
+msgid "none"
+msgstr "ingen"
+
+#: inc/formatting/formatting.php:198
+msgid "solid"
+msgstr "solid"
+
+#: inc/formatting/formatting.php:199
+msgid "dotted"
+msgstr "stiplet"
+
+#: inc/formatting/formatting.php:200
+msgid "dashed"
+msgstr "stiplede"
+
+#: inc/formatting/formatting.php:201
+msgid "double"
+msgstr "dobbel"
+
+#: inc/formatting/formatting.php:202
+msgid "groove"
+msgstr "groove"
+
+#: inc/formatting/formatting.php:203
+msgid "ridge"
+msgstr "møne"
+
+#: inc/formatting/formatting.php:204
+msgid "inset"
+msgstr "innfelt"
+
+#: inc/formatting/formatting.php:205
+msgid "outset"
+msgstr "begynnelsen"
+
+#: inc/formatting/formatting.php:206
+msgid "Border Width (px)"
+msgstr "Border bredde (px)"
+
+#: inc/formatting/formatting.php:208
+msgid "Button"
+msgstr "Knapp"
+
+#: inc/formatting/formatting.php:209
+msgid "URL"
+msgstr "URL"
+
+#: inc/formatting/formatting.php:210
+msgid "Open link in a new window/tab"
+msgstr "Åpne lenken i et nytt vindu / fane"
+
+#: inc/formatting/formatting.php:212
+msgid "normal"
+msgstr "normal"
+
+#: inc/formatting/formatting.php:213
+msgid "bold"
+msgstr "dristig"
+
+#: inc/formatting/formatting.php:214
+msgid "Background Color (hover)"
+msgstr "Bakgrunnsfarge (hover)"
+
+#: inc/formatting/formatting.php:215
+msgid "Text Color (hover)"
+msgstr "Tekst farge (hover)"
+
+#: inc/formatting/formatting.php:216
+msgid "Border Radius (px)"
+msgstr "Border Radius (px)"
+
+#: inc/formatting/formatting.php:217
+msgid "List"
+msgstr "List"
+
+#: inc/formatting/formatting.php:219
+msgid "Insert Icon"
+msgstr "Sett ikon"
+
+#: inc/formatting/formatting.php:220
+msgid "Choose an icon"
+msgstr "Velg et ikon"
+
+#: inc/formatting/formatting.php:221
+msgid "Web Application Icons"
+msgstr "Web applikasjons ikoner"
+
+#: inc/formatting/formatting.php:222
+msgid "Text Editor Icons"
+msgstr "Tekst editor ikoner"
+
+#: inc/formatting/formatting.php:223
+msgid "Spinner Icons"
+msgstr "Spinner Ikoner"
+
+#: inc/formatting/formatting.php:224
+msgid "File Type Icons"
+msgstr "Filtype ikoner"
+
+#: inc/formatting/formatting.php:225
+msgid "Directional Icons"
+msgstr "Retnings Ikoner"
+
+#: inc/formatting/formatting.php:226
+msgid "Video Player Icons"
+msgstr "Video player ikoner"
+
+#: inc/formatting/formatting.php:227
+msgid "Form Control Icons"
+msgstr "Skjemakontroll ikoner"
+
+#: inc/formatting/formatting.php:228
+msgid "Chart Icons"
+msgstr "Chart ikoner"
+
+#: inc/formatting/formatting.php:229
+msgid "Brand Icons"
+msgstr "Brand ikoner"
+
+#: inc/formatting/formatting.php:230
+msgid "Payment Icons"
+msgstr "Betalings ikoner"
+
+#: inc/formatting/formatting.php:231
+msgid "Currency Icons"
+msgstr "Valuta ikoner"
+
+#: inc/formatting/formatting.php:232
+msgid "Medical Icons"
+msgstr "Medisinsk ikoner"
+
+#: inc/formatting/formatting.php:233
+msgid "Choose"
+msgstr "Velg"
+
+#: inc/formatting/formatting.php:235
+msgid "Insert Horizontal Line"
+msgstr "Sett inn horisontal linje"
+
+#: inc/formatting/formatting.php:236
+msgid "Choose a line style"
+msgstr "Velg en linjestil"
+
+#: inc/formatting/formatting.php:401
+msgid "Big"
+msgstr "Stor"
+
+#: inc/formatting/formatting.php:406
+msgid "Small"
+msgstr "Liten"
+
+#: inc/formatting/formatting.php:411
+msgid "Citation"
+msgstr "Citation"
+
+#: inc/formatting/formatting.php:416
+msgid "Testimonial"
+msgstr "Testimonial"
+
+#: inc/gallery-slider/gallery-slider.php:91
+msgid "Slider Settings"
+msgstr "Slider innstillinger"
+
+#: inc/gallery-slider/gallery-slider.php:93
+msgid "Show gallery as slider"
+msgstr "Vis galleri som slider"
+
+#: inc/gallery-slider/gallery-slider.php:106
+msgid "Autoplay"
+msgstr "Auto spill"
+
+#: inc/gallery-slider/gallery-slider.php:114
+msgid "Effect"
+msgstr "Effekt"
+
+#: inc/template-tags.php:26
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:26
+msgid "Edit"
+msgstr "Redigere"
+
+#. Translators: this string is a verb whose subject is a comment author. e.g.
+#. Bob says: Hello.
+#: inc/template-tags.php:61
+msgid "says:"
+msgstr "sier:"
+
+#: inc/template-tags.php:67
+msgid "Your comment is awaiting moderation."
+msgstr "Din kommentar venter på moderering."
+
+#. Translators: this string denotes a camera shutter speed as a fraction of a
+#. second. %s is a placeholder for the denominator of the fraction.
+#: inc/template-tags.php:358
+msgid "1/%s second"
+msgstr "1 %s andre"
+
+#. Translators: this string denotes a camera shutter speed as a number of
+#. seconds. %s is a placeholder for the number.
+#: inc/template-tags.php:364
+msgid "%s seconds"
+msgstr "%s sekunder"
+
+#. Translators: this string denotes a camera f-stop. %s is a placeholder for
+#. the f-stop value. E.g. f/3.5
+#: inc/template-tags.php:384
+msgid "f/%s"
+msgstr "f %s"
+
+#. Translators: "Camera" refers to the model name of a camera. %s is a
+#. placeholder for the model name.
+#: inc/template-tags.php:405
+msgid "Camera: %s"
+msgstr "%s"
+
+#. Translators: "Taken" refers to the date that a photograph was taken. %s is a
+#. placeholder for that date.
+#: inc/template-tags.php:415
+msgid "Taken: %s"
+msgstr "%s"
+
+#. Translators: "Focal length" refers to the length of a camera's lens. %s is a
+#. placeholder for the focal length value, and "mm" is the units in
+#. millimeters.
+#: inc/template-tags.php:424
+msgid "Focal length: %smm"
+msgstr "%s mm"
+
+#. Translators: "Aperture" refers to the amount of light passing through a
+#. camera lens. %s is a placeholder for the aperture value, represented as an
+#. f-stop.
+#: inc/template-tags.php:433
+msgid "Aperture: %s"
+msgstr "%s"
+
+#. Translators: "Exposure" refers to a camera's shutter speed. %s is a
+#. placeholder for the shutter speed value.
+#: inc/template-tags.php:442
+msgid "Exposure: %s"
+msgstr "%s"
+
+#. Translators: "ISO" is an acronym that refers to a camera's sensitivity to
+#. light. %s is a placeholder for the ISO value.
+#: inc/template-tags.php:451
+msgid "ISO: %s"
+msgstr "%s"
+
+#: partials/content-attachment.php:11
+msgid "Download this file:"
+msgstr "Last ned denne filen:"
+
+#: partials/content-image.php:23
+msgid "Technical Details"
+msgstr "Tekniske detaljer"
+
+#: partials/content-none.php:11
+msgid "Nothing found"
+msgstr "Ingenting funnet"
+
+#: partials/content-none.php:17
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klar til å publisere ditt første innlegg? <a href=\" %1$s \"> Kom i gang her "
+"</a>."
+
+#: partials/content-none.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Beklager, men ingenting som passet søkeordene dine. Vennligst prøv igjen med "
+"noen andre søkeord."
+
+#: partials/content-none.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Det synes vi kan & rsquo; t finne det du & rsquo; re ute etter. Kanskje "
+"søker kan hjelpe."
+
+#. Translators: this string is an attribution of a post author. e.g. by Ernest
+#. Hemingway
+#: partials/entry-author.php:27
+msgid "by %s"
+msgstr "%s"
+
+#. Translators: this string indicates an amount of passed time. e.g. 5 minutes
+#. ago
+#: partials/entry-date.php:14
+msgid "%s ago"
+msgstr "%s siden"
+
+#: partials/entry-pagination.php:12
+msgid "Pages:"
+msgstr "Sider:"
+
+#. Translators: this HTML markup will display an icon representing blog
+#. categories.
+#: partials/entry-taxonomy.php:22
+msgid "<i class=\"fa fa-file\"></i> "
+msgstr "<i class=\"fa fa-filen\"></ i> "
+
+#. Translators: this HTML markup will display an icon representing blog tags.
+#: partials/entry-taxonomy.php:28
+msgid "<i class=\"fa fa-tag\"></i> "
+msgstr "<i class=\"fa fa-tag \"></ i> "
+
+#. Translators: this string indicates attribution.
+#: partials/footer-credit.php:27
+msgid "by"
+msgstr "av"
+
+#: partials/footer-credit.php:29
+msgid "homepage"
+msgstr "hjemmeside"
+
+#: partials/header-layout-3.php:29 partials/header-layout-3.php:73
+#: partials/header-layout.php:29 partials/header-layout.php:72
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: partials/nav-paging.php:9
+msgid "Posts navigation"
+msgstr "Innlegg navigasjon"
+
+#: partials/nav-paging.php:18
+msgid "Newer posts"
+msgstr "Nyere innlegg"
+
+#: partials/nav-paging.php:26
+msgid "Older posts"
+msgstr "Eldre innlegg"
+
+#: partials/nav-post.php:20
+msgid "Post navigation"
+msgstr "Post navigasjon"
+
+#: partials/section-title.php:12 partials/section-title.php:24
+#: partials/section-title.php:30 partials/section-title.php:36
+msgid "From %s"
+msgstr "Fra %s"
+
+#: partials/section-title.php:18
+msgid "Tagged %s"
+msgstr "Merket %s"
+
+#: partials/section-title.php:42
+msgid "By %s"
+msgstr "Av %s"
+
+#: partials/section-title.php:47
+msgid "Archive"
+msgstr "Arkiv"
+
+#: partials/section-title.php:53
+msgid "Search for %s"
+msgstr "Søk etter %s"
+
+#: partials/section-title.php:59
+msgid "%s result found"
+msgid_plural "%s results found"
+msgstr[0] "%s resultat funnet"
+msgstr[1] "%s resultater"
+
+#. Translators: this string is a label for a search input that is only visible
+#. to screen readers.
+#: searchform.php:9
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#. Translators: this string is in the placeholder attribute of the search
+#. input.
+#: searchform.php:10
+msgid "Search&hellip;"
+msgstr "Søk&hellip;"
+
+#: searchform.php:10
+msgid "Press Enter to submit your search"
+msgstr "Trykk Enter for å sende inn ditt søk"
+
+#. Translators: this string is the label on the search submit button.
+#: searchform.php:12
+msgid "Search"
+msgstr "Søk"
+
+#. Theme Name of the plugin/theme
+msgid "Make"
+msgstr "Gjøre"
+
+#. Theme URI of the plugin/theme
+msgid "https://thethemefoundry.com/make/"
+msgstr "https://thethemefoundry.com/make/"
+
+#. Description of the plugin/theme
+msgid ""
+"Create your website without touching a line of code. Make's flexible "
+"customization features and a powerful drag and drop page builder make "
+"designing your site fun and easy. Build almost anything: a simple portfolio "
+"or photography site, an ecommerce business site, a minimalist blog, or even "
+"a professional magazine. You'll start by customizing your background, "
+"layouts, fonts, colors, and logo. Next, add and organize your content using "
+"the drag and drop page builder. Add a photo, a video, a gallery, or even a "
+"slider to any page on your website. Make is responsive, so your website will "
+"naturally look great on phones, tablets, and desktop screens. It's also "
+"fully compatible with popular plugins like WooCommerce, Gravity Forms, "
+"Contact Form 7, Jetpack, and WP PageNavi."
+msgstr ""
+"Lag ditt nettsted uten å røre en linje med kode. Gjør fleksible "
+"tilpasningsmuligheter og en kraftig drag and drop sidebygger gjøre designe "
+"ditt nettsted morsomt og enkelt. Bygge nesten hva som helst: en enkel "
+"portefølje eller fotografering område, e-handel nettsted, en minimalistisk "
+"blogg, eller til og med en profesjonell magazine. Du vil starte med å "
+"tilpasse bakgrunn, oppsett, fonter, farger og logo. Deretter legge til og "
+"organisere innholdet ved hjelp av dra og slipp sidebygger. Legg et bilde, en "
+"video, et galleri, eller til og med en skyveknapp til en side på nettstedet "
+"ditt. Gjør er responsive, slik at nettstedet vil naturligvis se flott ut på "
+"telefoner, tabletter og stasjonære skjermer. Det er også fullt kompatibel "
+"med populære plugins som WooCommerce, Gravity Forms, Contact Form 7, "
+"Jetpack, og WP PageNavi."
+
+#. Author of the plugin/theme
+msgid "The Theme Foundry"
+msgstr "The Theme Foundry"
+
+#. Author URI of the plugin/theme
+msgid "https://thethemefoundry.com"
+msgstr "https://thethemefoundry.com"
+
+#. Template Name of the plugin/theme
+msgid "Builder Template"
+msgstr "Builder Mal"
+
+#: inc/extras.php:375
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:44
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: partials/section-title.php:31
+msgctxt "date format code for month and year"
+msgid "F Y"
+msgstr "FY"
+
+#: partials/section-title.php:37
+msgctxt "date format code for year"
+msgid "Y"
+msgstr "Y"
